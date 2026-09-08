@@ -1,0 +1,31 @@
+# Python 3.9.19
+# torch 2.4.1
+
+acvl_utils==0.2
+batchgenerators==0.25
+batchgeneratorsv2==0.2.1
+dynamic_network_architectures==0.3.1
+einops==0.8.0
+importlib_metadata==8.7.0
+itk==5.4.0
+matplotlib==3.9.4
+nibabel==5.2.1
+numpy==1.26.4
+opencv-python-headless==4.11.0.86
+pandas==2.2.2
+pillow==10.4.0
+pydicom==2.4.4
+rawpy==0.24.0
+requests==2.32.5
+scikit-image==0.24.0
+scikit-learn==1.6.1
+scipy==1.13.1
+seaborn==0.13.2
+setuptools==80.9.0
+SimpleITK==2.4.0
+threadpoolctl==3.6.0
+tifffile==2024.8.30
+torch==2.4.1
+torchvision==0.19.1
+tqdm==4.66.5
+
